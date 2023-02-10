@@ -1,9 +1,4 @@
-/*
-            Aula 273: Como contar a quantidade de FOLHAS de uma Árvore Binária?
 
-            Código escrito por Wagner Gaspar
-            Setembro de 2021
-*/
 
 typedef struct no{
     int valor;
